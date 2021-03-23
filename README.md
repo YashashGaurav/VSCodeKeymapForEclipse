@@ -1,4 +1,4 @@
-# IVSCodeKeymapForEclipse
+# VSCodeKeymapForEclipse
 Provides VSCode key bindings for Eclipse
 
 Another petproject.. ugh. I really hope I finish this LOL
